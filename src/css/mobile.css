@@ -1,0 +1,44 @@
+@media (max-width: 800px) {
+    body {
+        background-color: #e6edff;
+        background-image: url('../images/pattern-background-mobile.svg');
+        background-position: top center;
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-attachment: fixed;
+    }
+
+    main {
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .container {
+        background-color: #fff;
+        max-width: 355px;
+        height: 580px;
+        border-radius: 20px;
+        text-align: center;
+    }
+
+    .hero {
+        width: 355px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+    }
+
+    .txt-principal > p {
+        padding: 0 20px;
+    }
+
+    .btn-payment {
+        font-size: 1em;
+    }
+
+    .payment > p {
+        font-size: 0.9em;
+    }
+}
