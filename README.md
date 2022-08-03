@@ -7,3 +7,5 @@
 
 #### iPhone 12 Pro
 ![Captura de Tela 2022-08-03 às 19 39 35](https://user-images.githubusercontent.com/99209300/182724939-a1bb88c9-c096-4dda-a3e6-cf48da59b4c5.png)
+
+Acesse o projeto em: https://alvarojmac.github.io/order-summary-component-main/
